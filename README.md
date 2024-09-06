@@ -9,3 +9,10 @@ as it stands it's plainand simple a voltmeter based on led towers arranged such 
 as far as whther t will ever be a module in its own right? unlikelyaam afraid but it'll for sur be a prominent part of something involving a very crucial display of a whole scale of varioius voltages passing through.
 
 i'll  leave  it here for  ow as a result but keep 'em peeled to watch releases or github uploads to find out what happens...
+
+
+#######
+
+2409060302
+
+see jacob's laddder for continuation.
